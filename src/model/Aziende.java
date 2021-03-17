@@ -33,5 +33,5 @@ public class Aziende{
 	public void setPasswd(String passwd) {
 		this.passwd = passwd;
 	}
-
+//test Github
 }
