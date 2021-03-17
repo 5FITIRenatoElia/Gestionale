@@ -36,6 +36,6 @@ public class Stampa extends HttpServlet {
 				model.MovimentiDAO.StampMovimenti()
 			);
 		
-		//Github test
+		//Github test questo commento viene aggiornato anche su Eclipse!
 	}
 }
